@@ -2,7 +2,7 @@
 
 ... with a bit of a delay 😅.
 
-Still determined to try and do it semi-regularyl!
+Still determined to try and do it semi-regularly!
 
 This year, it's the year of the snake 🐍 Python
 
