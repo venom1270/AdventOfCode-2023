@@ -20,3 +20,12 @@ Parsing was annoying, but the puzzle was simple enough. Easier than day 1 (excep
 ### Day 3
 
 This one was medium. An appropriate challenge!
+
+### Day 4
+
+Naive solution quite easy, but part 2 takes a few seconds to complete.
+
+
+### Day 5
+
+Naive solution is very easy and is sufficient for part 1, but part 2 is a more advanced interval optimization problem which I will do sometime later.
