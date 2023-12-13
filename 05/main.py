@@ -32,9 +32,8 @@ def part1():
     print(min(locations))
 
 def part2():
-    # TODO: interval problem... optimize!!
     (seeds, maps) = read_input("1.txt")
-    print(len(seeds))
+    # print(len(seeds))
     locations = []
     for i in range(0, len(seeds), 2):
         seed_start = seeds[i]
@@ -90,7 +89,7 @@ def part2():
 
         locations += intervals
 
-    print(min(locations))
+    print(min(locations)[0])
 
-#part1()
+part1()
 part2()
