@@ -43,3 +43,12 @@ Easy. Just a simple map to keep track of values and then some edge cases for par
 
 Part 1 is easy, part 2 is a bit more tricky, requires cycle detection and then some math which I'm yet to figure out.
 
+### Day 9
+
+Just skipped to Day 9 on Chirstams eve day. It was really easy. No additional remarks here.
+
+### Day 10
+
+Part 1 was easy. Part 2 I don't have a completely working idea yet. Some kind of fill, but I'm not sure how to differentiate between "truly inside" and "squeezed in" tiles.
+
+
