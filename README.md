@@ -51,4 +51,6 @@ Just skipped to Day 9 on Chirstams eve day. It was really easy. No additional re
 
 Part 1 was easy. Part 2 I don't have a completely working idea yet. Some kind of fill, but I'm not sure how to differentiate between "truly inside" and "squeezed in" tiles.
 
+### Day 11
 
+This one was also really easy, BUT I complicated it with trying to solve it using A* at the start haha 😅. No need (it was also too slow), but now I'm ready for the eventual day that will require some variation of A* 😎.
